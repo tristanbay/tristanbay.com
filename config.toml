@@ -3,11 +3,10 @@ languageCode = 'en-us'
 title = 'Tristan Bay Website'
 theme = 'tristanbay'
 
-[author]
+[params]
   name = 'Tristan Bay'
   email = 'tristanbaymusic@gmail.com'
-
-[params]
+  
   favicon = "/favicon.ico"
 
   #list items
