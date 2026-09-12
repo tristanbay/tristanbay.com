@@ -1,4 +1,4 @@
-The source and generated HTML, CSS, etc. code is licensed under the MIT license.
+The source and generated HTML, CSS, etc. code is licensed under the MIT license, apart from the website text (see `LICENSE-CONTENT.md`).
 
 ---
 
