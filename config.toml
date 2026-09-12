@@ -1,0 +1,15 @@
+baseURL = 'https://tristanbay.com'
+languageCode = 'en-us'
+title = 'Tristan Bay'
+theme = 'tristanbay'
+
+[params]
+  favicon = "/favicon.ico"
+
+  #list items
+  datesinlist = false
+  sayreleased = false
+  buttonlist = true
+
+  #page items
+  visiblepage = true

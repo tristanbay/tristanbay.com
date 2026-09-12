@@ -1,0 +1,4 @@
+<p class="pagedates">Published {{ .Date.Format "2 Jan 2006" }}
+{{ if eq .Date .Lastmod }} {{ else }}
+	<br>Last Modified {{ .Lastmod.Format "2 Jan 2006" }}
+{{ end }}</p>

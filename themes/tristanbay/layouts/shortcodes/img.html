@@ -1,0 +1,25 @@
+<!-- usage: img [url] [alt text] [alignment] [size] -->
+
+{{ $align := .Get 2 }}
+
+<img
+	src="{{ .Get 0 }}"
+	alt="{{ .Get 1 }}"
+	style=
+		"display: block;
+		{{ if eq $align "center" }}
+			margin-left: auto;
+			margin-right: auto;
+		{{ else if eq $align "right" }}
+			margin-left: auto;
+			margin-right: 8px;
+			float: right;
+		{{ else }}
+			float: left;
+			margin-left: 0px;
+			margin-right: 8px;
+		{{ end }}
+		margin-bottom: 12px;
+		width: min({{ .Get 3 }}vw, {{ .Get 3}}vh);
+		height: auto;">
+</img>

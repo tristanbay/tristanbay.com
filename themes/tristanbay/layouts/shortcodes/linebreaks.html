@@ -1,0 +1,6 @@
+<!-- usage: linebreaks [number of line breaks] -->
+
+{{ $amt := .Get 0 }}
+{{ range $value := (seq $amt) }}
+<br>
+{{ end }}

@@ -1,0 +1,26 @@
+<div class="latest">
+	<div class="latestarticle">
+		<h2>Latest Article</h2>
+		{{ range first 1 (where $.Site.RegularPages "Section" "articles") }}
+			<button type="reset" onclick="location.href='{{ .RelPermalink }}'">
+				<span>{{ .Title }}</span>
+				{{ $whichpage := . }}
+				<span>
+					<i> {{ $whichpage.Date.Format "2 Jan 2006" }}</i>
+				</span>
+			</button>
+		{{ end }}
+	</div>
+	<div class="latestmusic">
+		<h2>Latest Music</h2>
+		{{ range first 1 (where $.Site.RegularPages "Section" "music") }}
+			<button type="reset" onclick="location.href='{{ .RelPermalink }}'">
+				<span>{{ .Title }}</span>
+				{{ $whichpage := . }}
+				<span>
+					<i> Released {{ $whichpage.Date.Format "2 Jan 2006" }}</i>
+				</span>
+			</button>
+		{{ end }}
+	</div>
+</div>

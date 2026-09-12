@@ -1,0 +1,8 @@
+<!-- usage: vid [url] [title] -->
+<iframe
+	src="{{ .Get 0 }}"
+	loading="lazy"
+	sandbox="allow-same-origin allow-scripts allow-popups"
+	allowfullscreen frameborder="0"
+	title="{{ .Get 1 }}">
+</iframe>

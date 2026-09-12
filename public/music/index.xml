@@ -1,0 +1,2245 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Tristan Bay</title>
+	<link>https://tristanbay.com/music/</link>
+	<description>Recent content from tristanbay.com</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Thu, 23 Apr 2026 17:00:00</lastBuildDate>
+    
+        <atom:link href="https://tristanbay.com/music/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Interpolate Me</title>
+		<link>https://tristanbay.com/music/singles/interpolate-me/</link>
+		<pubDate>Thu, 23 Apr 2026 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/interpolate-me/</guid>
+		<description>&lt;p&gt;A jungle/DnB track I made in &lt;a href=&#34;https://jangle.dev/osctet&#34;&gt;Osctet tracker&lt;/a&gt; in 140edo, the most finely-divided equal temperament I&amp;rsquo;ve ever composed a full song in at the time (and as of writing this). I mixed it and did a basic master for it in FL Studio (under WINE on Linux in fact).&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/RLcZe7vlR5c&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/1558303&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Meet Me In My Timeline</title>
+		<link>https://tristanbay.com/music/singles/meet-me-in-my-timeline/</link>
+		<pubDate>Thu, 15 Jan 2026 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/meet-me-in-my-timeline/</guid>
+		<description>&lt;p&gt;A track of mine featuring some custom plugdata patches I made. The tuning is 31edo and the time signature is 7/8.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Mmc4cIO0h4g&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/1514535&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>My adventures with MIDI keyboards</title>
+		<link>https://tristanbay.com/articles/my-adventures-with-midi-keyboards/</link>
+		<pubDate>Sat, 27 Sep 2025 00:32:24</pubDate>
+		
+		<guid>https://tristanbay.com/articles/my-adventures-with-midi-keyboards/</guid>
+		<description>&lt;p&gt;As some of you guys may know, I&amp;rsquo;ve been working to sell some MIDI keyboards I designed. The model is called the TS41 and you can read more about it &lt;a href=&#34;../../gear/ts41-midi-keyboard/&#34;&gt;here&lt;/a&gt;. As of writing this, I&amp;rsquo;ve sold 5 of them, so I consider this operation to be at least semi-successful. I&amp;rsquo;m considering making another batch of TS41s, and then forming an LLC for my music gear, including any MIDI keyboard models and acoustic instruments I sell in the future. If I do that, I&amp;rsquo;ll probably set up a website just for my business with an online storefront.&lt;/p&gt;
+&lt;p&gt;Over the past 2 weeks or so, I&amp;rsquo;ve spent a substantial amount of my time going back and forth with people via email who wanted to buy a TS41 probably after looking at &lt;a href=&#34;https://youtu.be/iIrrkTCjKPc&#34;&gt;my promo video for them&lt;/a&gt; and making multiple trips to the post office and UPS store to drop off the keyboards and ask questions about shipping them.&lt;/p&gt;
+&lt;p&gt;I have some other MIDI keyboard designs in the works at the moment as well. One will be in a square layout and be velocity-sensitive with RGB LEDs (think square &lt;a href=&#34;https://www.lumatone.io/&#34;&gt;Lumatone&lt;/a&gt; but cheaper). I plan to use Hall-effect computer keyboard switches for the keys in this one. The others will be modified Halberstadt (&amp;ldquo;normal&amp;rdquo; piano layout) designs for 19 and 22 notes per octave.&lt;/p&gt;
+&lt;p&gt;Things will probably move a bit slower relating to all this for the next several months since my fall university classes are about to start and I&amp;rsquo;ll be busy with school work and my work-study job, but not come to a complete halt either.&lt;/p&gt;
+&lt;p&gt;And if you want a TS41 of your own, feel free to write me an email to the address given in the &lt;em&gt;About&lt;/em&gt; section of my website.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>TS41 Microtonal MIDI Keyboard</title>
+		<link>https://tristanbay.com/gear/ts41-midi-keyboard/</link>
+		<pubDate>Wed, 18 Jun 2025 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/gear/ts41-midi-keyboard/</guid>
+		<description>&lt;p&gt;Earlier this year (2025), I&amp;rsquo;d been working on a project of mine involving music hardware, and this is essentially the result. I&amp;rsquo;ve decided to call this model the &lt;em&gt;TS41&lt;/em&gt; because the keys use &lt;strong&gt;T&lt;/strong&gt;actile &lt;strong&gt;S&lt;/strong&gt;witches, and because it&amp;rsquo;s designed to play in &lt;strong&gt;41&lt;/strong&gt;-tone equal temperament (there are 41 keys per octave, 126 total). 
+
+
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+&lt;img
+	src=&#34;./ts41-prototype.jpg&#34;
+	alt=&#34;My prototype TS41 microtonal MIDI keyboard.&#34;
+	style=
+		&#34;display: block;
+		
+			float: left;
+			margin-left: 0px;
+			margin-right: 8px;
+		
+		margin-bottom: 12px;
+		width: min(50vw, 50vh);
+		height: auto;&#34;&gt;
+&lt;/img&gt;
+
+The MIDI keyboard isn&amp;rsquo;t velocity-sensitive, but it is plug-and-play and I&amp;rsquo;ve confirmed that it works on both Linux and Windows, and the device name correctly shows on both operating systems, so it should work on macOS just the same. The keyboard itself does &lt;em&gt;not&lt;/em&gt; retune or send microtonal MIDI data to the thing being played. The keyboard sends plain MIDI note-on and note-off messages, and the retuning is supposed to be done independently, whether it&amp;rsquo;s with MTS-ESP in a DAW or using a synthesizer&amp;rsquo;s on-board tuning tables. Retuning with MPE may come in a future update.&lt;/p&gt;
+&lt;p&gt;I have hard-coded 3 different layout modes into it: 41-tone mode, 31-tone mode, and 22-tone mode. Pressing the red button on the left cycles through these modes. Of course, I realize people may want to play in tuning systems with other numbers of notes per octave, tritave, or whatever, so I plan to do something about that. I thought about making and releasing one or more scripts to generate the settings source code file, but I made a text file that acts as a catalog for a bunch of different layouts instead. Maybe I&amp;rsquo;ll update it when someone wants to add a layout and I think it&amp;rsquo;s nice enough.&lt;/p&gt;
+&lt;p&gt;The firmware for the keyboard is open source and can be found &lt;a href=&#34;https://github.com/tristanbay/ts-keyboard-firmware&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For the hardware, the microcontroller is the Adafruit KB2040, which uses the same processor as the Raspberry Pi Pico. The key scanning works by using 16 8-bit shift registers, although now I realize I could have probably done this more efficiently using a matrix.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s the promo video I made for this keyboard:
+&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/iIrrkTCjKPc&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+There&amp;rsquo;s also a YouTube livestream I did where I demonstrated it.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Subtract Hominem</title>
+		<link>https://tristanbay.com/music/singles/subtract-hominem/</link>
+		<pubDate>Tue, 27 May 2025 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/subtract-hominem/</guid>
+		<description>&lt;p&gt;Instrumental electronic piece of mine in 80-tone equal temperament. Enjoy!&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/JhGvrJ86jLU&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://tristanbay.bandcamp.com/track/subtract-hominem&#34;&gt;Buy on Bandcamp&lt;/a&gt;
+&lt;a href=&#34;https://open.spotify.com/album/1Tzozh2LseqlFEduhCQTIW&#34;&gt;Stream on Spotify&lt;/a&gt;
+
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/1433714&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>What Are The Chances</title>
+		<link>https://tristanbay.com/music/singles/what-are-the-chances/</link>
+		<pubDate>Tue, 08 Apr 2025 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/what-are-the-chances/</guid>
+		<description>&lt;p&gt;A melodic instrumental electronic track with synthwave vibes and wacky drums.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/P_5CJJHFEcs&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/1417013&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Chasing Dusk</title>
+		<link>https://tristanbay.com/music/singles/chasing-dusk/</link>
+		<pubDate>Sat, 15 Feb 2025 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/chasing-dusk/</guid>
+		<description>&lt;p&gt;Instrumental EDM track in 41-tone equal temperament with kind of a retrowave vibe.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/sD2-2z85YEI&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/1401898&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Extending Lamplight&#39;s chord notation</title>
+		<link>https://tristanbay.com/articles/extending-lamplights-chord-notation/</link>
+		<pubDate>Thu, 13 Feb 2025 14:42:25</pubDate>
+		
+		<guid>https://tristanbay.com/articles/extending-lamplights-chord-notation/</guid>
+		<description>&lt;p&gt;First of all, for context, this article is about the chord notation system used in &lt;a href=&#34;https://youtu.be/cMnuMjXeHrY&#34;&gt;the music video for Caftaphata by Lamplight&lt;/a&gt;. This track is awesome and the video has some nice graphics, and I recommend anyone into electronic music to give it a listen.&lt;/p&gt;
+&lt;p&gt;After watching the short explanation videos posted by Lamplight at about the same time as the music video, I had a decent understanding of how the system worked. But I noticed a couple of things that could be done differently. First of all, harmonic 13 was notated with brackets, whereas lower prime harmonics apart from 2 used lines that span the length of the interval (which is the harmonic reduced by some number of octaves).&lt;/p&gt;
+&lt;p&gt;Another thing I was wondering about was why Lamplight had decided to use the interval 11/4 instead of fully octave-reducing it to 11/8 like the lower harmonics. Harmonic 13 is the same way with 13/4. I later learned from one of their more recent videos that this is to avoid clashing between the notes in the chords.&lt;/p&gt;
+&lt;p&gt;Before that, though, I had made a diagram of an extended version of the chord notation going all the way to prime harmonic 23, shown below. All of the prime harmonics except for 2 had lines with their own unique colors (I also replaced the color for 13), and all of them were fully octave-reduced. I sent this in an email to Lamplight, wanting to know their thoughts on what I made.
+
+
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+
+
+
+
+
+&lt;img
+	src=&#34;./chord-notation-12-24.png&#34;
+	alt=&#34;The earlier extended diagram.&#34;
+	style=
+		&#34;display: block;
+		
+			margin-left: auto;
+			margin-right: auto;
+		
+		margin-bottom: 12px;
+		width: min(70vw, 70vh);
+		height: auto;&#34;&gt;
+&lt;/img&gt;
+&lt;br&gt;
+After that more recent video came out, though, I found a file on Lamplight&amp;rsquo;s website containing chord diagram components (found &lt;a href=&#34;https://lamplight0.sakura.ne.jp/medf/_s/dl/chord-diagram-components.zip&#34;&gt;here&lt;/a&gt;), so I downloaded and messed around with it. I ended up with a similar but more polished diagram, and this time, the original colors matched pretty much exactly, and all prime harmonics starting with 5 were lowered by only 2 octaves from their fully un-reduced form, regardless of whether that&amp;rsquo;s enough to fully octave-reduce them (per Lamplight&amp;rsquo;s recommendation in a reply to a comment I left on that video). I also slightly changed the colors I came up with for the other prime harmonics.&lt;/p&gt;
+&lt;p&gt;And just yesterday, I got an email back from Lamplight. They apparently liked the first diagram, since they said they think that it functions well and that it&amp;rsquo;s a really good idea.&lt;/p&gt;
+&lt;p&gt;Below is the newer extended diagram.
+
+
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+
+
+
+
+
+&lt;img
+	src=&#34;./chord-diagram-components-extended.png&#34;
+	alt=&#34;The newer extended diagram.&#34;
+	style=
+		&#34;display: block;
+		
+			margin-left: auto;
+			margin-right: auto;
+		
+		margin-bottom: 12px;
+		width: min(70vw, 70vh);
+		height: auto;&#34;&gt;
+&lt;/img&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Catalyst</title>
+		<link>https://tristanbay.com/music/singles/catalyst/</link>
+		<pubDate>Sun, 05 Jan 2025 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/catalyst/</guid>
+		<description>&lt;p&gt;An upbeat, instrumental electronic piece I wrote in 46-tone equal temperament.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/s61YY80E_IA&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/1390208&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Standardizing ups and downs notation</title>
+		<link>https://tristanbay.com/articles/standardizing-ups-and-downs-notation/</link>
+		<pubDate>Fri, 04 Oct 2024 00:46:07</pubDate>
+		
+		<guid>https://tristanbay.com/articles/standardizing-ups-and-downs-notation/</guid>
+		<description>&lt;p&gt;&lt;strong&gt;21 Oct 2025 update: I have now updated the note naming script on GitHub, but the old version is still linked where it was before. The new version can be found &lt;a href=&#34;https://github.com/tristanbay/microtuning-scripts/blob/main/note-namer.c&#34;&gt;here&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;27 Sep 2025 update: Kite has decided to deprecate drops and lifts and instead have new symbols for &lt;em&gt;quip&lt;/em&gt; (quintuple up) and &lt;em&gt;quid&lt;/em&gt; (quintuple down) so that ups and downs work like a tally system, meaning there&amp;rsquo;s no need for the proposed standardization rules below. I&amp;rsquo;m thinking of updating the script I linked to below but I haven&amp;rsquo;t done it at the time of writing this. I have, however been working on a &lt;a href=&#34;https://en.xen.wiki/w/Module:Ups_and_downs_sharpness&#34;&gt;Lua module for the Xenharmonic Wiki&lt;/a&gt; with ArrowHead294 which does something similar to that script, but for wiki articles.&lt;/strong&gt;
+
+
+
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+
+There are different ways to notate microtonal music. For just intonation, there&amp;rsquo;s Helmholtz-Ellis notation, Ben Johnston notation, and of course, the Functional Just system. There is also Sagittal notation which can notate both equal temperaments and just intonation, and things like Maneri-Sims which were made for a specific tuning system (in this case, 72-tone equal temperament).&lt;/p&gt;
+&lt;p&gt;But what I&amp;rsquo;m a fan of is Kite Giedraitis&amp;rsquo;s ups and downs notation. It&amp;rsquo;s meant to notate equal divisions of the octave (EDOs), which includes the aforementioned 72-tone equal temperament, or 72edo, as well as rank-2 or &amp;ldquo;two-dimensional&amp;rdquo; temperaments such as &lt;em&gt;porcupine&lt;/em&gt; and &lt;em&gt;miracle&lt;/em&gt;. The thing that makes it so great in my opinion is its simplicity and its compatibility with standard musical notation. Deviations from a chain of fifths are notated with ups for going up in pitch and are notated with downs for going down in pitch. Drops and lifts can be added for even smaller pitch increments in the case of large numbers of notes in an octave. Sharps, flats, naturals, clefs, staff lines, etc. all stay the same.&lt;/p&gt;
+&lt;p&gt;However, I noticed a problem with this system. For those higher EDOs, there&amp;rsquo;s no universally agreed-upon number of scale degrees (edosteps) that an up or a down should represent. For example, 270edo is a very accurate (yet not particularly practical) tuning system where, in theory, one could choose how many scale degrees to assign to an up or a down—one person might choose to notate an up as 5 steps, but another may choose 6 steps. Furthermore, one person may be used to seeing it one way and read it incorrectly or more inefficiently when they read the work of another composer who another number of steps to an up or a down, even when it&amp;rsquo;s specified at the beginning of the sheet music. I&amp;rsquo;m aware that such a large number of steps in an octave cannot reasonably be played on basically any existing instrument without some form of major modification, but 270edo is just an example, and it can be loosely followed on fretless instruments when using it as a model of just intonation. This issue can also apply to lower EDOs, which are often more physically playable on musical instruments.&lt;/p&gt;
+&lt;p&gt;So I wanted to come up with a formula to set the number of edosteps in a &amp;ldquo;standard&amp;rdquo; up and down in each EDO, and combine this with other rules to form a &amp;ldquo;standardized&amp;rdquo; ups and downs notation system. After discussing my ideas with different microtonalists online, I settled on these rules, which I propose to form the universal standard for ups and downs notation:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;For EDOs 1, 2, 3, 4, and 6:
+&lt;ul&gt;
+&lt;li&gt;Use an evenly-spaced subset of 12edo/12-tone equal temperament names.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;For EDOs 7, 14, 21, 28, and 35:
+&lt;ul&gt;
+&lt;li&gt;No sharps and flats are used. This is because the augmented unison is tempered out for these EDOs.&lt;/li&gt;
+&lt;li&gt;Ups and downs represent shifts of 1 edostep, and they are used for the non-natural notes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;For EDOs 9, 11, 16, and 23:
+&lt;ul&gt;
+&lt;li&gt;Flats for a letter/nominal are higher in pitch than the sharps for that same letter.
+&lt;ul&gt;
+&lt;li&gt;This reflects the fact that the augmented unison is mapped to a negative number of steps in these EDOs, since their best approximation of 3/2 is flatter than that of 7edo.&lt;/li&gt;
+&lt;li&gt;For example, D-sharp is lower in pitch than D-flat in these systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;For all other EDOs below 66, as well as all EDOs above 66 that support meantone temperament via their closest approximations of 5/4 and 3/2, except for 129edo:
+&lt;ul&gt;
+&lt;li&gt;Ups and downs represent shifts of 1 edostep.&lt;/li&gt;
+&lt;li&gt;Sharps and flats are used in the standard way.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;For 129edo:
+&lt;ul&gt;
+&lt;li&gt;Ups and downs are 3 edosteps to preserve the notational structure of 43edo within 129edo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;For all other EDOs:
+&lt;ul&gt;
+&lt;li&gt;Ups and downs are the number of edosteps in the interval 81/80 (the syntonic comma) using the closest approximations of 5/4 and 3/2 and &lt;em&gt;not necessarily&lt;/em&gt; the closest approximation of 81/80 directly.
+&lt;ul&gt;
+&lt;li&gt;For example, in 66edo, the closest approximations of 3/2 and 5/4 are sharp and flat respectively, which distorts 81/80 to 3 edosteps, but using the closest approximation of 81/80 directly (which is 1 edostep) means at least either 3/2 or 5/4 must be approximated less accurately so that the intervals add together to get that closer approximation of 81/80.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Drops and lifts are used whenever ups and downs correspond to an interval larger than 1 edostep, and are themselves always 1 edostep in these situations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It might seem rather complicated at first, but I actually designed the rules this way so that the intervals that ups and downs correspond to are defined simply with few exceptions. I chose 66edo as a general cutoff point for drops and lifts since 64edo is the last EDO to map 81/80 to a negative number of edosteps using the closest approximations of 3/2 and 5/4, and it wouldn&amp;rsquo;t matter for 65edo since it maps 81/80 to 1 edostep in this way anyway.&lt;/p&gt;
+&lt;p&gt;I wrote a script in C to generate the note names for different EDOs as a demonstration and implementation of this standard. I did add some other stylization that is optional and based on preference, but handy for certain musical elements and scenarios. This includes half-accidentals for when the number of edosteps in the closest approximation of 3/2 is even, and only having 5 note letters/nominals for EDOs 5, 8, 10, 13, 15, 18, 20, 25, and 30, even though the other nominals could technically be added as alternative names for other nominals or out of their usual ascending note order depending on whether the EDO is divisible by 5 or not. The script can be found &lt;a href=&#34;https://github.com/tristanbay/microtuning-scripts/blob/main/note-namer_old.c&#34;&gt;here&lt;/a&gt;. I may update the script with a feature to show note names without half-accidentals, which would be better for the established system of chord names in ups and downs notation.&lt;/p&gt;
+&lt;p&gt;I hope you found this article interesting, and if you&amp;rsquo;re a microtonal composer (especially if you work with sheet music and higher EDOs), feel free to share your thoughts and criticism of the rules in this article.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>RSS Feed Fixed (and More Website Changes)</title>
+		<link>https://tristanbay.com/misc/rss-feed-fixed-and-more/</link>
+		<pubDate>Tue, 24 Sep 2024 21:52:27</pubDate>
+		
+		<guid>https://tristanbay.com/misc/rss-feed-fixed-and-more/</guid>
+		<description>&lt;p&gt;I spent several hours today working on my website, and I like the way it turned out.
+The regular links in the lists have been changed into buttons. I tried to make it so that the buttons shrink/depress when clicked, but it moves the rest of the buttons because of how the list template I&amp;rsquo;m using structures the layout of that part of the pages. I could probably edit the list template so it doesn&amp;rsquo;t do that but I don&amp;rsquo;t want to take the time to do that right now, and maybe it&amp;rsquo;s a bit too complicated given the overall minimalistic feel of the website.
+I also tweaked the size and scaling of the text and the links at the top of each page. Someone I know pointed out that it&amp;rsquo;s awkward on desktop, but not too bad on mobile, so hopefully it&amp;rsquo;s much more balanced between the two in terms of user experience.
+Some other things I did include removing the SoundCloud link from the top of each page, since I plan to not upload there anymore, changing the text on the front page, and re-writing the page for my public-domain microtuning scripts on GitHub since I accidentally deleted the Markdown source file.
+And of course (as far as I can tell, at least) I fixed the RSS feed for the website. It turns out that the main problem was how I was naming my Markdown source files for each of the pages I wanted to be in the feed. For the pages I wanted to include, I was supposed to not have an underscore at the beginning of the file name, but I didn&amp;rsquo;t know that and now I do, so I changed them, and after fixing another syntax error in the RSS feed source file itself, it works now.
+I think one of the next improvements will be to add some more pictures to the website and to add the latest article and latest music I&amp;rsquo;ve released to the front page, besides just adding articles and music and stuff. I may even update the website again this week.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>That</title>
+		<link>https://tristanbay.com/music/singles/that/</link>
+		<pubDate>Sun, 25 Aug 2024 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/that/</guid>
+		<description>&lt;p&gt;This is an IDM track I made in 22-tone equal temperament (22 equal divisions of the octave, or 22edo for short).&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/H47nsivr-TU&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/1353605&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Junp</title>
+		<link>https://tristanbay.com/music/singles/junp/</link>
+		<pubDate>Sun, 04 Aug 2024 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/junp/</guid>
+		<description>&lt;p&gt;A fast-paced dance/trance/EDM track I made in a de-tempered &lt;a href=&#34;https://en.xen.wiki/w/Subgroup_temperaments#Pepperoni&#34;&gt;Pepperoni&lt;/a&gt; scale I came up with.&lt;/p&gt;
+&lt;p&gt;The notes are:
+104/99
+9/8
+13/11
+14/11
+4/3
+63/44
+3/2
+52/33
+56/33
+16/9
+21/11
+2/1&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ouUV2Uwr2qI&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/1347703&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>17-tone Ukulele</title>
+		<link>https://tristanbay.com/gear/17-tone-ukulele/</link>
+		<pubDate>Tue, 23 Jul 2024 21:16:50</pubDate>
+		
+		<guid>https://tristanbay.com/gear/17-tone-ukulele/</guid>
+		<description>&lt;p&gt;
+
+
+
+&lt;img
+	src=&#34;./ukulele.jpg&#34;
+	alt=&#34;My 17-tone ukulele.&#34;
+	style=
+		&#34;display: block;
+		
+			float: left;
+			margin-left: 0px;
+			margin-right: 8px;
+		
+		margin-bottom: 12px;
+		width: min(40vw, 40vh);
+		height: auto;&#34;&gt;
+&lt;/img&gt;
+ Late in 2023, I decided to buy a ukulele so I could have a travel instrument that I could take with me when I leave town. My idea was to convert into a fretless instrument and tie fishing line or zipties around the neck to have the tuning be adjustable. However, when I went to this local music store, there was an old Harmony ukulele with a plastic fretboard that appeared to be held on with a few screws. So I bought it and confirmed that was the case.&lt;/p&gt;
+&lt;p&gt;So instead, I had another idea. Why not swap out the fretboard for a 3D-printed microtonal one? And that&amp;rsquo;s what I ended up doing. After taking measurements of the ukulele and modeling a basic fretless fingerboard in Blender and having it printed as a test, I attempted to model a 17-tone fretboard and had it printed once again. The measurements for this fretboard were a little bit off, so I adjusted the model and had yet another one printed. This ended up being the one I kept.&lt;/p&gt;
+&lt;p&gt;I also bought some new Aquila Nylgut strings as was recommended to me by someone I knew, and tuned them in all fourths from each other. The resulting intonation of the instrument seemed great, and it was actually pretty playable. I ended up taking to Arizona with me for the holidays, and I even used it later in my song &lt;a href=&#34;../../music/singles/anemones&#34;&gt;Anemones&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I could make other fretboards for the ukulele, but at least for now, I&amp;rsquo;ve decided to keep the 17-tone one on. I don&amp;rsquo;t want to further wear away the screw holes in the neck underneath the fretboard, and eventually, I may do a nicer fretboard job on it (with real wood and metal frets). Despite the age of the instrument, it seems like it&amp;rsquo;s not really that fragile and can withstand a bit of knocking around inside a suitcase.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Microtonal Kalimbas</title>
+		<link>https://tristanbay.com/gear/microtonal-kalimbas/</link>
+		<pubDate>Tue, 23 Jul 2024 21:16:38</pubDate>
+		
+		<guid>https://tristanbay.com/gear/microtonal-kalimbas/</guid>
+		<description>&lt;p&gt;I have experience making and even selling my own kalimbas. I use key layouts inspired by &lt;a href=&#34;https://arraymbira.com&#34;&gt;Bill Wesley&amp;rsquo;s Array Mbiras&lt;/a&gt;, and the structural design I use was adapted from David Bellinger, who I got to meet in person, and ran the company &lt;em&gt;ekalimbas&lt;/em&gt;, but I believe is now retired.
+
+
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+&lt;img
+	src=&#34;./31edo-kalimba.jpg&#34;
+	alt=&#34;My 31-tone kalimba.&#34;
+	style=
+		&#34;display: block;
+		
+			float: left;
+			margin-left: 0px;
+			margin-right: 8px;
+		
+		margin-bottom: 12px;
+		width: min(80vw, 80vh);
+		height: auto;&#34;&gt;
+&lt;/img&gt;
+
+This is my 31-tone kalimba. I built it myself in 2023, and to my knowledge, it&amp;rsquo;s the only kalimba in existence designed to handle full 31-tone equal temperament. It has no sound hole or electronic amplification, so it&amp;rsquo;s pretty quiet, and it&amp;rsquo;s not the most ergonomic instrument to play either, but it works and it sounds rather nice. The 94 total keys span 3 octaves, and the instrument is 2 feet across. The base is finished eastern maple wood.
+
+
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+&lt;img
+	src=&#34;./11-limit-ji-kalimba.jpg&#34;
+	alt=&#34;The 11-limit just intonation kalimba I made and sold to a friend.&#34;
+	style=
+		&#34;display: block;
+		
+			float: left;
+			margin-left: 0px;
+			margin-right: 8px;
+		
+		margin-bottom: 12px;
+		width: min(30vw, 30vh);
+		height: auto;&#34;&gt;
+&lt;/img&gt;
+
+I made this smaller kalimba in August 2024 and I tuned it to a 7-note just intonation scale (specifically 18:20:22:24:27:30:33:36). I listed it on Reverb and my friend bought it from me. Like the other kalimbas I made, it was made with no electronic amplification or sound hole, but my friend found that placing it on top of certain hollow objects (such as a box) and playing it there substantially amplifies it. The base is made of wood from an oak tree that fell on a family member&amp;rsquo;s property.
+
+
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+&lt;img
+	src=&#34;./19edo-kalimba.jpg&#34;
+	alt=&#34;The 19-tone kalimba I made and sold.&#34;
+	style=
+		&#34;display: block;
+		
+			float: left;
+			margin-left: 0px;
+			margin-right: 8px;
+		
+		margin-bottom: 12px;
+		width: min(52vw, 52vh);
+		height: auto;&#34;&gt;
+&lt;/img&gt;
+
+This is another kalimba I sold. It&amp;rsquo;s in 19-tone equal temperament, so it has a flat, mellow major third and perfect fifth and has what are essentially perfect classic minor thirds (a frequency ratio of 6/5). The base is made of wood from the same tree as the just intonation kalimba.
+
+
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+&lt;img
+	src=&#34;./22edo-kalimba.jpg&#34;
+	alt=&#34;The 22-tone kalimba I made.&#34;
+	style=
+		&#34;display: block;
+		
+			float: left;
+			margin-left: 0px;
+			margin-right: 8px;
+		
+		margin-bottom: 12px;
+		width: min(52vw, 52vh);
+		height: auto;&#34;&gt;
+&lt;/img&gt;
+
+This one is in 22-tone equal temperament and has also been sold. The layout is a bit different for this one since 22edo isn&amp;rsquo;t a meantone temperament. Keys in the same &amp;ldquo;cluster&amp;rdquo; are spaced apart by semioctaves (tritones) instead of octaves, and horizontally, the layout is in 2-step (11edo) semitones. Just like in 12edo, a semioctave and a semitone results in a perfect fifth, but importantly, (the approximate) 5/4 will be less of a distance on the kalimba than what it would be if the keys were arranged in just octaves and fourths or fifths like the other equal-tempered kalimbas I made. This is because in 22edo, harmonic 5 and a stack of 4 fifths aren&amp;rsquo;t tempered together like 12edo, 19edo, 31edo, and so on. Instead it&amp;rsquo;s a system where harmonic 40 and a stack of 9 fifths are tempered together. The base is also made from the same oak tree&amp;rsquo;s wood.
+
+
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Before finishing the 31-tone kalimba, I had built a 41edo kalimba with Kite Giedraitis that is 3 feet long and has 124 keys, but it didn&amp;rsquo;t turn out as well as the others since I didn&amp;rsquo;t have as much experience back then. We might come back to that project in the future, though.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Classical Kite Guitar</title>
+		<link>https://tristanbay.com/gear/classical-kite-guitar/</link>
+		<pubDate>Tue, 23 Jul 2024 21:15:53</pubDate>
+		
+		<guid>https://tristanbay.com/gear/classical-kite-guitar/</guid>
+		<description>&lt;p&gt;It&amp;rsquo;s about time I talk about some of my musical instruments, and I want to start with my Kite guitar.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+&lt;img
+	src=&#34;./kiteguitar.jpg&#34;
+	alt=&#34;My Kite guitar.&#34;
+	style=
+		&#34;display: block;
+		
+			float: left;
+			margin-left: 0px;
+			margin-right: 8px;
+		
+		margin-bottom: 12px;
+		width: min(40vw, 40vh);
+		height: auto;&#34;&gt;
+&lt;/img&gt;
+
+Now, you might be wondering what a Kite guitar is. It&amp;rsquo;s a microtonal guitar where the fret spacing is 2 steps of 41-tone equal temperament. There can also be one or more frets that add the steps halfway in between at or near the end of the fretboard (my guitar has one). The strings are also generally all tuned in major thirds from each other (technically, downmajor thirds, but I&amp;rsquo;ll get to that distinction later on). Since this interval is 13 steps of 41-equal, some strings have the steps that others don&amp;rsquo;t, so on a full-scale guitar with 6 strings, there are over 2 and a half octaves without a single missing step. Also, there&amp;rsquo;s an &lt;a href=&#34;https://kiteguitar.com&#34;&gt;official Kite guitar website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;41-tone equal temperament may sound like an arbitrary choice for a tuning, but it&amp;rsquo;s actually much better at approximating the harmonic series than many other equal temperaments of similar size or smaller. For example, all harmonics up to 16 except for perfect powers of 2 (octaves) are approximated better in 41-equal than they are in 12-equal.&lt;/p&gt;
+&lt;p&gt;41-equal also works especially well on a guitar because of the Kite layout. Multiple flavors of major and minor chords can be played on 3 adjacent strings with the finger positions close together, and the octave is 3 strings up and 1 fret towards the bridge.&lt;/p&gt;
+&lt;p&gt;In 41-equal, there are different &amp;ldquo;major&amp;rdquo; and &amp;ldquo;minor&amp;rdquo; intervals. The downminor interval (at 9 steps) represents the just interval 7/6, which can help give a darker, moodier quality to a chord. The mid-minor interval (at 10 steps) represents 13/11 or 32/27 and is closest to the familiar 300-cent minor third, giving it a more generic quality. The upminor third (at 11 steps) represents 6/5, giving it a brighter character. The downmajor third (at 13 steps) represents 5/4 and is the spacing between each string on a Kite guitar. It has a sweeter and mellower sound than the familiar 400-cent major third, which is what the mid-major third (at 14 steps) gets closest to. The upmajor third (at 15 steps) represents 9/7 and has a more tense quality to its sound. There&amp;rsquo;s also the neutral third (at 12 steps) which represents 11/9 or 16/13, and may sound somewhat unpalatable to the Western listener, but it shows up in Arabic maqams and classical Thai scales (although they tend to use tunings other than 41-equal).&lt;/p&gt;
+&lt;p&gt;The guitar I have is a Cordoba C5 which I bought new and came with a 12-tone fretboard. That fretboard was removed and replaced with a laser-cut fretboard of the same color, and the frets were added and the fretboard was installed. The guitar was at the luthier&amp;rsquo;s for months and the whole transformation cost about double the amount I spent on the guitar in the first place, but now I have a microtonal guitar that I can just pick up and play instead of signing into a computer and using a virtual software instrument.&lt;/p&gt;
+&lt;p&gt;Kite Giedraitis, the guy who the type of guitar was named after and one of its discoverers, actually lives in the same city I do, and he helped with this process, acting in part as a middleman between me and both the fretboard make and Kerry, the luthier who installed the fretboard. He was there to make sure things were done the way they were supposed to be.&lt;/p&gt;
+&lt;p&gt;Anyway, it&amp;rsquo;s a neat instrument in my collection, and I&amp;rsquo;m glad to own such a rare type of guitar.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Notation idea for binary logical relations</title>
+		<link>https://tristanbay.com/articles/binary-logical-relations/</link>
+		<pubDate>Sat, 06 Jul 2024 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/articles/binary-logical-relations/</guid>
+		<description>&lt;p&gt;I&amp;rsquo;m currently taking a discrete structures course for my computer science degree, which deals with classical logic, the basics of rigorous mathematical proofs, and stuff like that. It&amp;rsquo;s relevant to computer science because logic in this sense is foundational to how computer circuitry comes together to form complex machines like the device you&amp;rsquo;re reading this on, or like the one this was written on. What I noticed, though, is that the basic binary relations (i.e. between two statements instead of one or three or so on) such as AND, OR, and XOR can be expressed in terms of a 2-by-2 truth table.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re not yet familiar, a truth table shows how one or more different expressions relate to each other based on one or more of them being true or false, or different combinations of true and false. For example, if some statement X is true and another statement Y is false, another statement Z is false, and if Z is true if X false and Y is true, that can be in a truth table along with what Z would be if both X and Y being true or both of them being false.&lt;/p&gt;
+&lt;p&gt;Anyway, the idea is that a unique symbol can be made from each possible 2-by-2 truth table, and that each 2-by-2 truth table corresponds to a different logical relation. The truth tables are made to be diagonal so that two sides can be next to each other on top, and that those sides can correspond to the two statements being represented by the symbol. Those sides are divided into whether each statement is true or false, and they extended out to form rows and columns which make 4 different spaces. These correspond to both statements being true, both being false, only the first one being true, and only the second one being true. The spaces are marked if the values (e.g. one of the statements being true vs. false) of the corresponding row and column &amp;ldquo;agree&amp;rdquo; with the relation that the symbol is representing. So for example, in the case of the relation AND, statement X and Y both have to be true in order for X AND Y to be true. Thus, only the space for the X = true row and Y = true column is marked.&lt;/p&gt;
+&lt;p&gt;Furthermore, numbers can be assigned to each of the symbols by treating each space as a bit (in binary), and treating a marked space as a 1, and an unmarked space as a 0. The way I did it is false-false is the ones place, true-false is the twos place, false-true is the fours place, and true-true is the eights place. Referring back to the example of AND, it would be assigned the number 8.&lt;/p&gt;
+&lt;p&gt;I realize that I&amp;rsquo;m probably not the best at explaining stuff in words, so I made a pretty diagram to visualize what I&amp;rsquo;m talking about. I use A and B here instead of X and Y, but it&amp;rsquo;s the same thing as I explained above.&lt;/p&gt;
+
+
+
+
+&lt;img
+	src=&#34;./binary_logical_relations.png&#34;
+	alt=&#34;Binary relations diagram&#34;
+	style=
+		&#34;display: block;
+		
+			margin-left: auto;
+			margin-right: auto;
+		
+		margin-bottom: 12px;
+		width: min(60vw, 60vh);
+		height: auto;&#34;&gt;
+&lt;/img&gt;
+
+</description>
+	</item>
+	
+	<item>
+		<title>Anemones</title>
+		<link>https://tristanbay.com/music/singles/anemones/</link>
+		<pubDate>Sat, 15 Jun 2024 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/anemones/</guid>
+		<description>&lt;p&gt;This is a track I made in 17edo (17 equal divisions of the octave), featuring my 17-tone ukulele with a 3D-printed fretboard. I started it in 2022, shortly after I began my plunge into microtonality, but set it aside for a while. Now, it&amp;rsquo;s done! I hope you enjoy it.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/pR0BrnATUPg&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/1333181&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>12-nominal note naming system</title>
+		<link>https://tristanbay.com/articles/dodecanominal-note-naming/</link>
+		<pubDate>Tue, 16 Apr 2024 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/articles/dodecanominal-note-naming/</guid>
+		<description>&lt;p&gt;I&amp;rsquo;ve developed a (kind of) new microtonal note-naming system that works more or less the same way as &lt;a href=&#34;https://en.xen.wiki/w/Ups_and_downs_notation&#34;&gt;Kite Giedraitis&amp;rsquo;s ups and downs system&lt;/a&gt; but with nominals (or letters) O through Z instead of A through G.&lt;/p&gt;
+&lt;p&gt;The basic problem that ups and downs try to tackle is the fact that when naming the notes of certain equal divisions of the octave (EDOs) higher than 12 (the one that the Western world uses mostly nowadays), sharps and flats tend to cross over. What I mean by this is that when using a chain of fifths to name the notes, the sharp of one letter ends up being higher than the flat of the letter above and vice versa. For example, in the 41edo tuning system, where there are 41 equally-spaced notes per octave, D sharp is higher than E flat. The issue is magnified when things like double or triple sharps/flats become involved, where some multi-flats of higher letters become lower than the natural note of the letter below and some multi-sharps become higher than the natural note of the letter above, depending on how sharp the tuning system&amp;rsquo;s best approximation of the ratio 3/2 (most accurate perfect fifth) is. An example would be E double flat being lower than D natural. This problem doesn&amp;rsquo;t exist in 12edo, though, because there are only 12 notes per octave, and they make a complete circle of fifths where the sharp of the letter just below is the same as the flat of the letter just above.&lt;/p&gt;
+&lt;p&gt;Ups and downs deal with this by turning those would-be crossover notes into an up or a down of the adjacent note. For example, if D flat is lower than C sharp and there&amp;rsquo;s nothing else in between C and C sharp, D flat could instead be called up-C. The consequence of this is that some fifths no longer &amp;ldquo;add up&amp;rdquo; correctly, meaning the nominals don&amp;rsquo;t follow the fifths pattern of F-C-G-A-E-B, if the up or down note name is used instead of the sharp or flat note name. If the flats cross over the sharps in some EDO system, the ups and downs names would just be whatever the next lower nominal is preceded by &amp;ldquo;up-&amp;rdquo;. This means that, for that system, there would be a fifth that goes up-A to F, and A to F isn&amp;rsquo;t the correct order for a chain of fifths.&lt;/p&gt;
+&lt;p&gt;What having 12 nominals instead of 7 improves is that this pattern-breaking happens less of the time, and the maximum number of ups and downs to use decreases, making for slightly less complicated or messy note names/notation. This is because the difference between 7 fifths and the closest whole number of octaves in just intonation (called the apotome) is relatively quite large; in fact, it&amp;rsquo;s more than half of a plain whole tone (9/8). This means that even just a single sharp and single flat will cross over in just intonation Pythagorean tuning (which uses a chain of just 3/2 fifths). The rest of the distance to 9/8 is the difference between only 5 fifths and the closest whole number of octaves (called the Pythagorean limma). Using this instead (thus using only 5 nominals) would allow for single sharps and flats to not cross over in just intonation, but would not for double sharps and flats, which would still cross over between steps of a whole tone between nominals (the other step size would be a minor third with this many nominals). The difference between 12 fifths and the closest whole number of octaves, however, is much smaller. Because the step sizes between the nominals are also smaller, this also means that double sharps and double flats often cross over, but the higher number of nominals also help larger EDOs not contain as many ups and downs, as well as lower degrees of ups and downs (e.g. double-up compared to quadruple-up). So, while the idea of a 5-nominal system is something that I also somewhat want to explore, I went with this system to develop first.&lt;/p&gt;
+&lt;p&gt;For EDOs with a single chain of closest perfect fifths that eventually leads back to the root note (i.e. EDOs where the number of steps of their best approximation of 3/2 is coprime with the number of note per octave they have), it follows the chain of fifths, moving to sharps, flats, double sharps, double flats, etc. when needed, unless it falls within the range of another nominal, in which case, it becomes the next higher or lower degree of up or down of that note (including for sharp and flat notes).&lt;/p&gt;
+&lt;p&gt;For EDOs with multiple rings of closest perfect fifths, such as 34 or 72, ups and/or downs are added in between the ones for the corresponding EDO with one ring, with the degrees of the ups and downs adjusted to compensate for ones already present in the single-ring EDO if needed.&lt;/p&gt;
+&lt;p&gt;For EDOs with a best approximation of 3/2 of 720 cents and sharper, I only used 5 nominals, with the fifth pattern Y-T-O-V-Q, and for EDOs with a best approximation of 3/2 of 4 steps of 7edo and flatter (except for 11edo), I used only 7 nominals, with the fifth pattern R-Y-T-O-V-Q-X. For 11edo, I used all the nominals in order except for U.&lt;/p&gt;
+&lt;p&gt;For now, I&amp;rsquo;ve decided on note O being equivalent to A, with concert O5 being the same as concert A4 being 440 hz. I&amp;rsquo;ve also decided the fifths pattern to be P-W-R-Y-T-O-V-Q-X-S-Z-U with U going forward to P sharp and P going backward to U flat in just intonation. This may cause issues since the center of the 7-nominal fifth pattern is D (equivalent to T in my system), but if others don&amp;rsquo;t think it&amp;rsquo;ll be much of a problem, then I&amp;rsquo;ll keep it this way. A mnemonic I came up with to remember the 12-nominal pattern of fifths is: &amp;ldquo;Possibly, when raving yellow tigers overtly vocalize, quiet xylophones sing zealous undertones.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Thanks to Kite (who I mentioned earlier), groundfault, and Stephen Weigel, who helped me develop this system. Below is a PDF of all EDOs from 5 to 72 notated in this &amp;ldquo;dodecanominal&amp;rdquo; note naming system, as I&amp;rsquo;ve been calling it, with enharmonic equivalences.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://tristanbay.com/articles/dodecanominal-note-naming/dodecanominal.pdf&#34;&gt;Download or view PDF&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I may continue to update this article (and PDF) with new info, corrections, diagrams/graphics, and so on.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Myritone Tuning File Format</title>
+		<link>https://tristanbay.com/software/myritone/</link>
+		<pubDate>Sat, 06 Apr 2024 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/software/myritone/</guid>
+		<description>&lt;p&gt;A tuning file converter from my Myritone format into Scala format (and likely other formats in the future). Myritone is a tuning file format based off of &lt;a href=&#34;https://www.huygens-fokker.org/scala/scl_format.html&#34;&gt;Scala format&lt;/a&gt;. Learn more about the project and/or download the source code &lt;a href=&#34;https://github.com/tristanbay/myritone&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Ashland</title>
+		<link>https://tristanbay.com/music/singles/ashland/</link>
+		<pubDate>Mon, 26 Feb 2024 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/ashland/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/bGxxne0rx9Y&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/1298926&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Bonus Room</title>
+		<link>https://tristanbay.com/music/eps/bonus-room/</link>
+		<pubDate>Tue, 30 Jan 2024 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/eps/bonus-room/</guid>
+		<description>&lt;p&gt;My second major multi-track release. I started working on a couple of the songs in it before I even released awkward human.&lt;/p&gt;
+&lt;p&gt;The tracks are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Affection() (5:19)&lt;/li&gt;
+&lt;li&gt;Wednesday Machine (3:33)&lt;/li&gt;
+&lt;li&gt;Wallaby (4:00)&lt;/li&gt;
+&lt;li&gt;Evaporate (4:22)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://tristanbay.bandcamp.com/album/bonus-room&#34;&gt;Buy it on Bandcamp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;YouTube video:
+&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/d3V3mM4XzFE&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+
+</description>
+	</item>
+	
+	<item>
+		<title>Pitchblende</title>
+		<link>https://tristanbay.com/music/singles/pitchblende/</link>
+		<pubDate>Fri, 03 Nov 2023 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/pitchblende/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/R30aRbNtoIY&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/1260915&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Microtuning Scripts</title>
+		<link>https://tristanbay.com/software/microtuning-scripts/</link>
+		<pubDate>Fri, 31 Mar 2023 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/software/microtuning-scripts/</guid>
+		<description>&lt;p&gt;These are various scripts/code scraps I wrote in C that relate to microtonality, and they&amp;rsquo;re public domain. They include a note name generator for different equal temperaments, a program to convert just musical intervals into their prime factors, and more. You can find them &lt;a href=&#34;https://github.com/tristanbay/microtuning-scripts&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Holding Your Hand</title>
+		<link>https://tristanbay.com/music/singles/holding-your-hand/</link>
+		<pubDate>Tue, 07 Dec 2021 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/holding-your-hand/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/yNkZBhM_5YY&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://tristanbay.bandcamp.com/track/holding-your-hand&#34;&gt;Buy on Bandcamp&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+
+</description>
+	</item>
+	
+	<item>
+		<title>Soyo Oka - Good Night, See You Soon (Tristan Bay Edit)</title>
+		<link>https://tristanbay.com/music/singles/good-night-see-you-soon-edit/</link>
+		<pubDate>Thu, 08 Apr 2021 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/good-night-see-you-soon-edit/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/t35uPx4wroI&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1YqciXAAJPzLI460lh51jILbl-bBBZmf3/view?usp=drive_link&#34;&gt;Download here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Song copyright goes to its respective owners.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>( ͡° ͜ʖ ͡°) EP</title>
+		<link>https://tristanbay.com/music/eps/lenny-face/</link>
+		<pubDate>Wed, 31 Mar 2021 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/eps/lenny-face/</guid>
+		<description>&lt;p&gt;An EP I released as an April Fools&amp;rsquo; joke. It&amp;rsquo;s made up of poorly-produced songs I made in LMMS in 2015. I had it up on Instagram for people to listen to at one point but it seems like I deleted it.&lt;/p&gt;
+&lt;p&gt;The tracks are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Graduation (3:17)&lt;/li&gt;
+&lt;li&gt;Groundshaker (3:56)&lt;/li&gt;
+&lt;li&gt;Neon Plasma (4:15)&lt;/li&gt;
+&lt;li&gt;Cabin (4:36)&lt;/li&gt;
+&lt;li&gt;A Misty Day (4:42)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1YpgJyxGDYd9gdjhdfoHkpODuNnsOi0qT?usp=drive_link&#34;&gt;Download here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I declare these tracks to be &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/&#34;&gt;CC0/public domain&lt;/a&gt;.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Posterized</title>
+		<link>https://tristanbay.com/music/singles/posterized/</link>
+		<pubDate>Sun, 27 Dec 2020 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/posterized/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/b0epDIISkLA&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/991565&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Sharp Left</title>
+		<link>https://tristanbay.com/music/singles/sharp-left/</link>
+		<pubDate>Wed, 09 Dec 2020 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/sharp-left/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/bHgsfHbNSDQ&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/986984&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Sleeping in an Empty Room</title>
+		<link>https://tristanbay.com/music/singles/sleeping-in-an-empty-room/</link>
+		<pubDate>Sun, 23 Aug 2020 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/sleeping-in-an-empty-room/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/qNtEtSdyBqE&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/tristanbay/sleeping-in-an-empty-room&#34;&gt;Listen/download newer version from 2021 on SoundCloud&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.newgrounds.com/audio/download/959372&#34;&gt;Download older version on Newgrounds&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+
+</description>
+	</item>
+	
+	<item>
+		<title>Street Glaciers</title>
+		<link>https://tristanbay.com/music/singles/street-glaciers/</link>
+		<pubDate>Sat, 15 Aug 2020 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/street-glaciers/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/YxlQtbKZUm0&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/957302&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Overworld Song</title>
+		<link>https://tristanbay.com/music/singles/overworld-song/</link>
+		<pubDate>Thu, 30 Jul 2020 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/overworld-song/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/HeO90l5W4_U&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/953382&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Skymelt (ft. joze umibe)</title>
+		<link>https://tristanbay.com/music/singles/skymelt/</link>
+		<pubDate>Fri, 28 Feb 2020 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/skymelt/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/KsrIlgmHmI0&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/914618&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>awkward human</title>
+		<link>https://tristanbay.com/music/eps/awkward-human/</link>
+		<pubDate>Wed, 15 Jan 2020 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/eps/awkward-human/</guid>
+		<description>&lt;p&gt;My first commercial EP.&lt;/p&gt;
+&lt;p&gt;The tracks are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;spicy polytope (2:17)&lt;/li&gt;
+&lt;li&gt;break the world (4:32)&lt;/li&gt;
+&lt;li&gt;glowstick (4:18)&lt;/li&gt;
+&lt;li&gt;heighten (3:21)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://tristanbay.bandcamp.com/album/awkward-human&#34;&gt;Buy it on Bandcamp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;YouTube video:
+&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/z18TGaUiIF4&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;This music is copyrighted, all rights reserved. YouTube&amp;rsquo;s Content ID system may detect it if you use it in a YouTube video.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Foamy Dreams</title>
+		<link>https://tristanbay.com/music/singles/foamy-dreams/</link>
+		<pubDate>Sat, 11 Jan 2020 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/foamy-dreams/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ZVyS8sGrHw4&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/904079&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Aqua Regia</title>
+		<link>https://tristanbay.com/music/singles/aqua-regia/</link>
+		<pubDate>Tue, 17 Dec 2019 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/aqua-regia/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/iEOOCe83yKs&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://tristanbay.bandcamp.com/track/aqua-regia&#34;&gt;Buy on Bandcamp&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+
+</description>
+	</item>
+	
+	<item>
+		<title>Tristan Bay &amp; joze umibe - Release It</title>
+		<link>https://tristanbay.com/music/singles/release-it/</link>
+		<pubDate>Wed, 23 Oct 2019 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/release-it/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/RKB-JOkpDyQ&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/RKB-JOkpDyQ&#34;&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+
+</description>
+	</item>
+	
+	<item>
+		<title>Orenco</title>
+		<link>https://tristanbay.com/music/singles/orenco/</link>
+		<pubDate>Thu, 05 Sep 2019 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/orenco/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/6z_YAUUcbxA&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/881490&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Tent</title>
+		<link>https://tristanbay.com/music/singles/tent/</link>
+		<pubDate>Wed, 28 Aug 2019 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/tent/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/kxTsOrm68Uc&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/880218&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Post-Incident</title>
+		<link>https://tristanbay.com/music/singles/post-incident/</link>
+		<pubDate>Fri, 12 Jul 2019 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/post-incident/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/DBVcttp_9Vs&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/872996&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Separation</title>
+		<link>https://tristanbay.com/music/singles/separation/</link>
+		<pubDate>Fri, 05 Apr 2019 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/separation/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/hm2AkrHJrAI&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/856778&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>To The Surface</title>
+		<link>https://tristanbay.com/music/singles/to-the-surface/</link>
+		<pubDate>Wed, 20 Mar 2019 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/to-the-surface/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/AvcWex_FMG0&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/854255&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Idaku</title>
+		<link>https://tristanbay.com/music/singles/idaku/</link>
+		<pubDate>Mon, 04 Feb 2019 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/idaku/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/YO4O-QbytJU&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/846746&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Things I Missed</title>
+		<link>https://tristanbay.com/music/singles/things-i-missed/</link>
+		<pubDate>Fri, 30 Nov 2018 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/things-i-missed/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/luyHRrs28Mg&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/835351&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Toby Fox - Megalovania (Tristan Bay Remix)</title>
+		<link>https://tristanbay.com/music/singles/megalovania-remix/</link>
+		<pubDate>Tue, 30 Oct 2018 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/megalovania-remix/</guid>
+		<description>&lt;p&gt;&lt;a href=&#34;https://youtu.be/O7L4uh5ZjeU&#34;&gt;Listen on YouTube&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+
+</description>
+	</item>
+	
+	<item>
+		<title>When Will It Be Quiet</title>
+		<link>https://tristanbay.com/music/singles/when-will-it-be-quiet/</link>
+		<pubDate>Sun, 14 Oct 2018 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/when-will-it-be-quiet/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/NV_UPw_dH9Y&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/828386&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Shrugs From Society</title>
+		<link>https://tristanbay.com/music/singles/shrugs-from-society/</link>
+		<pubDate>Thu, 27 Sep 2018 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/shrugs-from-society/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/oX4CDKi3i50&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/825806&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Overcast</title>
+		<link>https://tristanbay.com/music/singles/overcast/</link>
+		<pubDate>Sat, 15 Sep 2018 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/overcast/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/GIv-JLTlVoc&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/824253&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>virtual_retreat</title>
+		<link>https://tristanbay.com/music/singles/virtual_retreat/</link>
+		<pubDate>Wed, 22 Aug 2018 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/virtual_retreat/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/sgErzEeTOLI&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/821057&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Distance</title>
+		<link>https://tristanbay.com/music/singles/distance/</link>
+		<pubDate>Thu, 19 Jul 2018 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/distance/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Cb6PlAYjDsM&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/816075&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Melt My Mind</title>
+		<link>https://tristanbay.com/music/singles/melt-my-mind/</link>
+		<pubDate>Sat, 23 Jun 2018 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/melt-my-mind/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/n7fMVHkT0nk&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/812110&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Do You Just Space</title>
+		<link>https://tristanbay.com/music/singles/do-you-just-space/</link>
+		<pubDate>Thu, 24 May 2018 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/do-you-just-space/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/yWuvCoyYpBI&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/807481&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Vision Space</title>
+		<link>https://tristanbay.com/music/singles/vision-space/</link>
+		<pubDate>Fri, 20 Apr 2018 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/vision-space/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/rdOAnvWcd6M&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/802091&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>My Enigmas</title>
+		<link>https://tristanbay.com/music/singles/my-enigmas/</link>
+		<pubDate>Sat, 31 Mar 2018 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/my-enigmas/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/5pVo9pJk7Wc&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/798785&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Where Am I Going</title>
+		<link>https://tristanbay.com/music/singles/where-am-i-going/</link>
+		<pubDate>Wed, 28 Feb 2018 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/where-am-i-going/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Ao6SEnebtAU&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/793232&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Purplewave</title>
+		<link>https://tristanbay.com/music/singles/purplewave/</link>
+		<pubDate>Tue, 02 Jan 2018 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/purplewave/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/wu4chKE9OOY&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/782925&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Pachelbel&#39;s Canon (Tristan Bay Remix)</title>
+		<link>https://tristanbay.com/music/singles/pachelbels-canon-remix/</link>
+		<pubDate>Wed, 20 Dec 2017 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/pachelbels-canon-remix/</guid>
+		<description>&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/780644&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Immune</title>
+		<link>https://tristanbay.com/music/singles/immune/</link>
+		<pubDate>Sat, 04 Nov 2017 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/immune/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/-2MzwQfRXFs&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/773404&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Tessellate</title>
+		<link>https://tristanbay.com/music/singles/tessellate/</link>
+		<pubDate>Wed, 11 Oct 2017 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/tessellate/</guid>
+		<description>&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/769791&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Metastable</title>
+		<link>https://tristanbay.com/music/singles/metastable/</link>
+		<pubDate>Wed, 20 Sep 2017 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/metastable/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/C3T8jNkWdv4&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/766565&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Field of Things</title>
+		<link>https://tristanbay.com/music/singles/field-of-things/</link>
+		<pubDate>Tue, 05 Sep 2017 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/field-of-things/</guid>
+		<description>&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/764302&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Deep Fried Soul</title>
+		<link>https://tristanbay.com/music/singles/deep-fried-soul/</link>
+		<pubDate>Fri, 04 Aug 2017 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/deep-fried-soul/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/clDUOGt1F24&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/758873&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Dropoff</title>
+		<link>https://tristanbay.com/music/singles/dropoff/</link>
+		<pubDate>Wed, 12 Jul 2017 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/dropoff/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ZGoQsdY9T4g&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/755238&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>owo</title>
+		<link>https://tristanbay.com/music/singles/owo/</link>
+		<pubDate>Tue, 27 Jun 2017 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/owo/</guid>
+		<description>&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/752597&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>That One Realization</title>
+		<link>https://tristanbay.com/music/singles/that-one-realization/</link>
+		<pubDate>Mon, 05 Jun 2017 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/that-one-realization/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/-jfG9umvLdI&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/748728&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Empathy</title>
+		<link>https://tristanbay.com/music/singles/empathy/</link>
+		<pubDate>Tue, 02 May 2017 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/empathy/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ziltOm1w0-A&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/742764&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Another Elsewhere</title>
+		<link>https://tristanbay.com/music/singles/another-elsewhere/</link>
+		<pubDate>Sun, 05 Mar 2017 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/another-elsewhere/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Cz2PkvnP1MQ&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/732403&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>The Grind</title>
+		<link>https://tristanbay.com/music/singles/the-grind/</link>
+		<pubDate>Thu, 12 Jan 2017 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/the-grind/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/SRRz_W_gsdY&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/722557&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Refraction</title>
+		<link>https://tristanbay.com/music/singles/refraction/</link>
+		<pubDate>Mon, 26 Dec 2016 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/refraction/</guid>
+		<description>&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/719448&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Beside the Essence</title>
+		<link>https://tristanbay.com/music/singles/beside-the-essence/</link>
+		<pubDate>Tue, 22 Nov 2016 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/beside-the-essence/</guid>
+		<description>&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/713990&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Ahead</title>
+		<link>https://tristanbay.com/music/singles/ahead/</link>
+		<pubDate>Sun, 09 Oct 2016 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/ahead/</guid>
+		<description>&lt;div style=&#34;position: relative; padding-top: 8px;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/4umpewy0Jsg&#34; style=&#34;width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/707591&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Golden Crest</title>
+		<link>https://tristanbay.com/music/singles/golden-crest/</link>
+		<pubDate>Sat, 01 Oct 2016 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/golden-crest/</guid>
+		<description>&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/706482&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Storm</title>
+		<link>https://tristanbay.com/music/singles/storm/</link>
+		<pubDate>Fri, 16 Sep 2016 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/storm/</guid>
+		<description>&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/704209&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Terracosmos</title>
+		<link>https://tristanbay.com/music/singles/terracosmos/</link>
+		<pubDate>Wed, 31 Aug 2016 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/terracosmos/</guid>
+		<description>&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/701539&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Ascension</title>
+		<link>https://tristanbay.com/music/singles/ascension/</link>
+		<pubDate>Tue, 16 Aug 2016 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/ascension/</guid>
+		<description>&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/699233&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Epsilon Naught</title>
+		<link>https://tristanbay.com/music/singles/epsilon-naught/</link>
+		<pubDate>Thu, 28 Jul 2016 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/epsilon-naught/</guid>
+		<description>&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/696177&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Sky Streaks</title>
+		<link>https://tristanbay.com/music/singles/sky-streaks/</link>
+		<pubDate>Sun, 24 Jul 2016 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/sky-streaks/</guid>
+		<description>&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/695596&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>A Bountiful World</title>
+		<link>https://tristanbay.com/music/singles/a-bountiful-world/</link>
+		<pubDate>Mon, 13 Jun 2016 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/a-bountiful-world/</guid>
+		<description>&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/689090&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Deveraux</title>
+		<link>https://tristanbay.com/music/singles/deveraux/</link>
+		<pubDate>Tue, 10 May 2016 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/deveraux/</guid>
+		<description>&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/684033&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Stranded</title>
+		<link>https://tristanbay.com/music/singles/stranded/</link>
+		<pubDate>Sat, 23 Apr 2016 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/stranded/</guid>
+		<description>&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/tristanbay/stranded&#34;&gt;Listen/download on SoundCloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+
+</description>
+	</item>
+	
+	<item>
+		<title>Memory of an Illusion</title>
+		<link>https://tristanbay.com/music/singles/memory-of-an-illusion/</link>
+		<pubDate>Wed, 30 Mar 2016 17:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/memory-of-an-illusion/</guid>
+		<description>&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/677883&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Don&#39;t Guide Us</title>
+		<link>https://tristanbay.com/music/singles/dont-guide-us/</link>
+		<pubDate>Tue, 08 Mar 2016 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/dont-guide-us/</guid>
+		<description>&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/674663&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Aviation</title>
+		<link>https://tristanbay.com/music/singles/aviation/</link>
+		<pubDate>Mon, 29 Feb 2016 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/aviation/</guid>
+		<description>&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/673673&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Hemisolar</title>
+		<link>https://tristanbay.com/music/singles/hemisolar/</link>
+		<pubDate>Thu, 25 Feb 2016 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/hemisolar/</guid>
+		<description>&lt;p&gt;
+&lt;a href=&#34;https://www.newgrounds.com/audio/listen/673234&#34;&gt;
+Download on Newgrounds
+&lt;/a&gt;
+&lt;br&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Stellar Voices</title>
+		<link>https://tristanbay.com/music/singles/stellar-voices/</link>
+		<pubDate>Fri, 19 Feb 2016 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/stellar-voices/</guid>
+		<description>&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/tristanbay/stellar-voices&#34;&gt;Listen/download on SoundCloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+
+</description>
+	</item>
+	
+	<item>
+		<title>Road Trip</title>
+		<link>https://tristanbay.com/music/singles/road-trip/</link>
+		<pubDate>Thu, 19 Feb 2015 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/road-trip/</guid>
+		<description>&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/tristanbay/road-trip&#34;&gt;Listen/download on SoundCloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+
+</description>
+	</item>
+	
+	<item>
+		<title>Flight of the Little Rocket</title>
+		<link>https://tristanbay.com/music/singles/flight-of-the-little-rocket/</link>
+		<pubDate>Sun, 04 Jan 2015 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/flight-of-the-little-rocket/</guid>
+		<description>&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/tristanbay/flight-of-the-little-rocket&#34;&gt;Listen/download on SoundCloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+
+</description>
+	</item>
+	
+	<item>
+		<title>Honey Jar</title>
+		<link>https://tristanbay.com/music/singles/honey-jar/</link>
+		<pubDate>Tue, 30 Dec 2014 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/honey-jar/</guid>
+		<description>&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/tristanbay/honey-jar&#34;&gt;Listen/download on SoundCloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+
+</description>
+	</item>
+	
+	<item>
+		<title>Cosmonaut</title>
+		<link>https://tristanbay.com/music/singles/cosmonaut/</link>
+		<pubDate>Sat, 27 Dec 2014 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/cosmonaut/</guid>
+		<description>&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/tristanbay/cosmonaut-non-glitched&#34;&gt;Listen/download on SoundCloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+
+</description>
+	</item>
+	
+	<item>
+		<title>Hyperdrive X</title>
+		<link>https://tristanbay.com/music/singles/hyperdrive-x/</link>
+		<pubDate>Sat, 27 Dec 2014 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/hyperdrive-x/</guid>
+		<description>&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/tristanbay/hyperdrive-x&#34;&gt;Listen/download on SoundCloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+
+</description>
+	</item>
+	
+	<item>
+		<title>Light Emitting Cortex</title>
+		<link>https://tristanbay.com/music/singles/light-emitting-cortex/</link>
+		<pubDate>Sat, 27 Dec 2014 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/light-emitting-cortex/</guid>
+		<description>&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/tristanbay/light-emitting-cortex&#34;&gt;Listen/download on SoundCloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+
+</description>
+	</item>
+	
+	<item>
+		<title>Newgrowth</title>
+		<link>https://tristanbay.com/music/singles/newgrowth/</link>
+		<pubDate>Sat, 27 Dec 2014 16:00:00</pubDate>
+		
+		<guid>https://tristanbay.com/music/singles/newgrowth/</guid>
+		<description>&lt;p&gt;&lt;a href=&#34;https://soundcloud.com/tristanbay/newgrowth&#34;&gt;Listen/download on SoundCloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34;&gt;
+This music is licensed under a Creative Commons Attribution 3.0 license.
+&lt;/a&gt;
+
+</description>
+	</item>
+	
+	</channel>
+</rss>

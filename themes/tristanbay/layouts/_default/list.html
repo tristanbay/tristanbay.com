@@ -1,0 +1,41 @@
+{{ define "title" -}}
+	{{ .Title | title }}
+{{- end }}
+{{ define "main" -}}
+	{{ with $.Param "buttonlist" }}
+		{{ $.Content }}
+		{{ range $.Pages }}
+			{{ $whichpage := . }}
+			{{ with $whichpage.Param "visiblepage" }}
+				<button type="reset" onclick="location.href='{{ $whichpage.RelPermalink }}'">
+					<span>{{ $whichpage.Title }}</span>
+					{{ with $.Param "sayreleased" }}
+						<span style="color: #7F426D"> <i>Released</i></span>
+					{{ end }}
+					{{ with $.Param "datesinlist" }}
+						<span style="color: #7F426D"><i> {{ $whichpage.Date.Format "2 Jan 2006" }}</i></span>
+					{{ end }}
+				</button>
+			<br>
+			{{ end }}
+		{{ end }}
+	{{ else }}
+		<div align="center">
+			{{ range $.Pages.ByTitle }}
+				{{ $whichpage := . }}
+				{{ with $whichpage.Param "visiblepage" }}
+					<button type="reset" onclick="location.href='{{ $whichpage.RelPermalink }}'">
+						<span>{{ $whichpage.Title }}</span>
+						{{ with $.Param "sayreleased" }}
+							<span style="color: #7F426D"> <i>Released</i></span>
+						{{ end }}
+						{{ with $.Param "datesinlist" }}
+							<span style="color: #7F426D"><i> {{ $whichpage.Date.Format "2 Jan 2006" }}</i></span>
+						{{ end }}
+					</button>
+				{{ end }}
+			{{ end }}
+		</div>
+		{{ $.Content }}
+	{{ end }}
+{{- end }}

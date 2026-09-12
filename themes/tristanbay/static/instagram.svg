@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="instagram.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#cccccc"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.04117"
+     inkscape:cx="72.017521"
+     inkscape:cy="-11.268047"
+     inkscape:window-width="1803"
+     inkscape:window-height="1133"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <rect
+       x="0"
+       y="128"
+       width="128"
+       height="56"
+       id="rect15" />
+    <rect
+       x="0"
+       y="129.55072"
+       width="128"
+       height="54.449284"
+       id="rect5" />
+    <rect
+       x="0"
+       y="96"
+       width="128"
+       height="88"
+       id="rect4" />
+  </defs>
+  <path
+     id="path1"
+     style="fill:#ffffff;stroke-width:4"
+     d="M 64 0 A 64 64 0 0 0 0 64 A 64 64 0 0 0 64 128 A 64 64 0 0 0 128 64 A 64 64 0 0 0 64 0 z M 46 28 L 82 28 C 93.079989 28 102 36.920011 102 48 L 102 84 C 102 95.079989 93.079989 104 82 104 L 46 104 C 34.920011 104 26 95.079989 26 84 L 26 48 C 26 36.920011 34.920011 28 46 28 z " />
+  <path
+     id="path2"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:8"
+     d="M 64 60 A 16 16 0 0 0 48 76 A 16 16 0 0 0 64 92 A 16 16 0 0 0 80 76 A 16 16 0 0 0 64 60 z M 64 67.5 A 8.5 8.5 0 0 1 72.5 76 A 8.5 8.5 0 0 1 64 84.5 A 8.5 8.5 0 0 1 55.5 76 A 8.5 8.5 0 0 1 64 67.5 z " />
+  <circle
+     style="fill:#ffffff;fill-opacity:1;stroke-width:8.00002"
+     id="path2-5"
+     cx="86"
+     cy="45"
+     r="6" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:8"
+     id="rect2"
+     width="16"
+     height="7"
+     x="38"
+     y="41" />
+</svg>

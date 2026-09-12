@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language }}">
+	<head>
+		<title>
+			{{ .Site.Title }}{{ " | " }}{{ .Title }}
+		</title>
+		<link rel="canonical" href="{{ .Site.BaseURL }}">
+		<link rel='alternate' type='application/rss+xml' title="{{ .Site.Title }} RSS" href='/index.xml'>
+		<link rel='stylesheet' type='text/css' href='/style.css'>
+		{{ with .Site.Params.favicon }}<link rel="icon" href="{{ . }}">{{ end }}
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="robots" content="index, follow">
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<main>
+			{{ partial "header.html" . }}
+			{{ if and (eq .Section "articles") (eq .Kind "page") }}
+				{{ partial "pagedates.html" . }}
+			{{ end }}
+			<article>
+				{{ block "main" . }}
+				{{ .Content }}
+				{{ end }}
+			</article>
+			{{ if .IsHome }}{{ partial "recents.html" . }}{{ end }}
+		</main>
+	</body>
+</html>

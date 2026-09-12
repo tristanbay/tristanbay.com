@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>
+			Tristan Bay | TS41 Microtonal MIDI Keyboard
+		</title>
+		<link rel="canonical" href="https://tristanbay.com/">
+		<link rel='alternate' type='application/rss+xml' title="Tristan Bay RSS" href='/index.xml'>
+		<link rel='stylesheet' type='text/css' href='/style.css'>
+		<link rel="icon" href="/favicon.ico">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="robots" content="index, follow">
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<main>
+			<header>
+	<div class="toplinks">
+		<a href="https://www.youtube.com/@tristanbay" class="tophyperlink">
+			<img src="/youtube.svg" title="My YouTube channel." class="toplinkicon">
+		</a>
+		<a href="https://tristanbay.bandcamp.com/" class="tophyperlink">
+			<img src="/bandcamp.svg" title="My Bandcamp artist page." class="toplinkicon">
+		</a>
+		<a href="https://open.spotify.com/artist/4kHErr2liGBpoChdl4DsTC" class="tophyperlink">
+			<img src="/spotify.svg" title="My Spotify profile." class="toplinkicon">
+		</a>
+		<a href="https://www.instagram.com/whoistristanbay" class="tophyperlink">
+			<img src="/instagram.svg" title="My Instagram page." class="toplinkicon">
+		</a>
+		<a href="https://beefef.newgrounds.com/" class="tophyperlink">
+			<img src="/newgrounds.svg" title="My Newgrounds page." class="toplinkicon">
+		</a>
+		<a href="/index.xml" class="tophyperlink">
+			<img src="/rss.svg" title="Add this website to your RSS reader of choice. No account required!" class="toplinkicon">
+		</a>
+	</div>
+	
+		<a href="https://tristanbay.com/">
+			<img src="/tristanbay_logo.svg" title="To front page." class="logo">
+		</a>
+	
+	
+		<h1 id="tag_TS41 Microtonal MIDI Keyboard" style="margin: clamp(2px, 0.5em, 10px) 0 clamp(2px, 0.2em, 8px) 0">
+			TS41 Microtonal MIDI Keyboard
+		</h1>
+	
+</header>
+
+			
+			<article>
+				
+				<p>Earlier this year (2025), I&rsquo;d been working on a project of mine involving music hardware, and this is essentially the result. I&rsquo;ve decided to call this model the <em>TS41</em> because the keys use <strong>T</strong>actile <strong>S</strong>witches, and because it&rsquo;s designed to play in <strong>41</strong>-tone equal temperament (there are 41 keys per octave, 126 total). 
+
+
+
+<br>
+
+<br>
+
+</p>
+<p>
+
+
+
+<img
+	src="./ts41-prototype.jpg"
+	alt="My prototype TS41 microtonal MIDI keyboard."
+	style=
+		"display: block;
+		
+			float: left;
+			margin-left: 0px;
+			margin-right: 8px;
+		
+		margin-bottom: 12px;
+		width: min(50vw, 50vh);
+		height: auto;">
+</img>
+
+The MIDI keyboard isn&rsquo;t velocity-sensitive, but it is plug-and-play and I&rsquo;ve confirmed that it works on both Linux and Windows, and the device name correctly shows on both operating systems, so it should work on macOS just the same. The keyboard itself does <em>not</em> retune or send microtonal MIDI data to the thing being played. The keyboard sends plain MIDI note-on and note-off messages, and the retuning is supposed to be done independently, whether it&rsquo;s with MTS-ESP in a DAW or using a synthesizer&rsquo;s on-board tuning tables. Retuning with MPE may come in a future update.</p>
+<p>I have hard-coded 3 different layout modes into it: 41-tone mode, 31-tone mode, and 22-tone mode. Pressing the red button on the left cycles through these modes. Of course, I realize people may want to play in tuning systems with other numbers of notes per octave, tritave, or whatever, so I plan to do something about that. I thought about making and releasing one or more scripts to generate the settings source code file, but I made a text file that acts as a catalog for a bunch of different layouts instead. Maybe I&rsquo;ll update it when someone wants to add a layout and I think it&rsquo;s nice enough.</p>
+<p>The firmware for the keyboard is open source and can be found <a href="https://github.com/tristanbay/ts-keyboard-firmware">here</a>.</p>
+<p>For the hardware, the microcontroller is the Adafruit KB2040, which uses the same processor as the Raspberry Pi Pico. The key scanning works by using 16 8-bit shift registers, although now I realize I could have probably done this more efficiently using a matrix.</p>
+<p>Here&rsquo;s the promo video I made for this keyboard:
+<div style="position: relative; padding-top: 8px;">
+  <iframe src="https://www.youtube.com/embed/iIrrkTCjKPc" style="width: clamp(160px, 24vw, 1280px); height: clamp(90px, 13.5vw, 720px);" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+There&rsquo;s also a YouTube livestream I did where I demonstrated it.</p>
+
+				
+			</article>
+			
+		</main>
+	</body>
+</html>

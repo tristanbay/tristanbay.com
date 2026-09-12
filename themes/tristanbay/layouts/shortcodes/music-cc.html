@@ -1,0 +1,4 @@
+<!-- music-cc [license-type] [version] -->
+<a href="https://creativecommons.org/licenses/{{ .Get 0 }}/{{ .Get 1 | lang.FormatNumber 1 }}/">
+This music is licensed under a Creative Commons Attribution{{ if in ( .Get 0 ) "nc" }}-NonCommercial{{ end }}{{ if in ( .Get 0 ) "nd" }}-NoDerivs{{ end }}{{ if in ( .Get 0 ) "sa" }}-ShareAlike{{ end }} {{ .Get 1 | lang.FormatNumber 1 }} license.
+</a>
