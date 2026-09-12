@@ -1,8 +1,11 @@
 baseURL = 'https://tristanbay.com'
 languageCode = 'en-us'
-title = 'Tristan Bay'
+title = 'Tristan Bay Website'
 theme = 'tristanbay'
-email = 'tristanbaymusic@gmail.com'
+
+[author]
+  name = 'Tristan Bay'
+  email = 'tristanbaymusic@gmail.com'
 
 [params]
   favicon = "/favicon.ico"
