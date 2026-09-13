@@ -7,7 +7,7 @@ theme = 'tristanbay'
   name = 'Tristan Bay'
   email = 'tristanbaymusic@gmail.com'
   
-  favicon = "/favicon.ico"
+  favicon = "favicon.ico"
 
   #list items
   datesinlist = false
