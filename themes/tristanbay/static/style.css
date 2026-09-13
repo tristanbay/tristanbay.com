@@ -77,15 +77,22 @@ h2 {
 	margin: 0;
 }
 
-footer {
-	text-align: center;
-	clear: both;
-	font-size: 14px;
-}
-
 li span {
 	color: #8383EF;
 	font-style: italic;
+}
+
+footer {
+	padding: 4px;
+	background: #3843B8;
+	font-size: 14px;
+}
+
+footer div {
+	margin-left: calc(clamp(1%, 24px, 3%) - 4px);
+	margin-right: calc(clamp(1%, 24px, 3%) - 4px);
+	margin-top: 8px;
+	margin-bottom: 8px;
 }
 
 /* for list.html */
@@ -111,7 +118,14 @@ li span {
 /* for latest.html */
 .latest {
 	display: block;
-	margin: 12px;
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
+
+.latest::after {
+	content: "";
+	display: block;
+	clear: both;
 }
 
 .latest button {
@@ -140,7 +154,7 @@ li span {
 	display: inline-block;
 	background: #4862B3;
 	float: left;
-	width: calc(50% - 10px);
+	width: calc(50% - 5px);
 	text-align: center;
 	padding: 0.4em 0;
 }
@@ -149,7 +163,7 @@ li span {
 	display: inline-block;
 	background: #4862B3;
 	float: right;
-	width: calc(50% - 10px);
+	width: calc(50% - 5px);
 	text-align: center;
 	padding: 0.4em 0;
 }
