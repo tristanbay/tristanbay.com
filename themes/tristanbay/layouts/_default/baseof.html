@@ -7,7 +7,7 @@
 		<link rel="canonical" href="{{ .Permalink }}">
 		<link rel='alternate' type='application/rss+xml' title="{{ .Site.Title }} RSS" href='{{ "index.xml" | absURL }}'>
 		<link rel='stylesheet' type='text/css' href='{{ "style.css" | absURL }}'>
-		{{ with .Site.Params.favicon }}<link rel="icon" href="{{ . }}">{{ end }}
+		{{ with .Site.Params.favicon }}<link rel="icon" href="{{ . | absURL }}">{{ end }}
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="robots" content="index, follow">
 		<meta charset="utf-8">
