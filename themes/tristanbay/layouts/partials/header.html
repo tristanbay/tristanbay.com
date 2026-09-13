@@ -1,29 +1,29 @@
 <header>
 	<div class="toplinks">
 		<a href="https://www.youtube.com/@tristanbay" class="tophyperlink">
-			<img src="/youtube.svg" title="My YouTube channel." class="toplinkicon">
+			<img src="{{ "youtube.svg" | absURL }}" title="My YouTube channel." class="toplinkicon">
 		</a>
 		<a href="https://tristanbay.bandcamp.com/" class="tophyperlink">
-			<img src="/bandcamp.svg" title="My Bandcamp artist page." class="toplinkicon">
+			<img src="{{ "bandcamp.svg" | absURL }}" title="My Bandcamp artist page." class="toplinkicon">
 		</a>
 		<a href="https://open.spotify.com/artist/4kHErr2liGBpoChdl4DsTC" class="tophyperlink">
-			<img src="/spotify.svg" title="My Spotify profile." class="toplinkicon">
+			<img src="{{ "spotify.svg" | absURL }}" title="My Spotify profile." class="toplinkicon">
 		</a>
 		<a href="https://www.instagram.com/whoistristanbay" class="tophyperlink">
-			<img src="/instagram.svg" title="My Instagram page." class="toplinkicon">
+			<img src="{{ "instagram.svg" | absURL }}" title="My Instagram page." class="toplinkicon">
 		</a>
 		<a href="https://beefef.newgrounds.com/" class="tophyperlink">
-			<img src="/newgrounds.svg" title="My Newgrounds page." class="toplinkicon">
+			<img src="{{ "newgrounds.svg" | absURL }}" title="My Newgrounds page." class="toplinkicon">
 		</a>
 		<a href="/index.xml" class="tophyperlink">
-			<img src="/rss.svg" title="Add this website to your RSS reader of choice. No account required!" class="toplinkicon">
+			<img src="{{ "rss.svg" | absURL }}" title="Add this website to your RSS reader of choice. No account required!" class="toplinkicon">
 		</a>
 	</div>
 	{{ if .IsHome }}
-		<img src="/tristanbay_logo.svg" class="logo">
+		<img src="{{ "tristanbay_logo.svg" | absURL }}" class="logo">
 	{{ else }}
 		<a href="{{ .Site.BaseURL }}">
-			<img src="/tristanbay_logo.svg" title="To front page." class="logo">
+			<img src="{{ "tristanbay_logo.svg" | absURL }}" title="To front page." class="logo">
 		</a>
 	{{ end }}
 	{{ if .IsHome }}{{ else }}
