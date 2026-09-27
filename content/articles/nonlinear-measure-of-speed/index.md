@@ -3,7 +3,7 @@ title: "A nonlinear measure of speed"
 date: 2026-09-27
 ---
 
-A while ago, I had this idea for a measure of speed that was nonlinear (and non-exponential and non-logarithmic). The idea is that it would be more sensitive at both ends of the range of possible speeds (stationary and the speed of light in a vacuum, *c*). This way, it would be useful in situations where you have both fast and slow things It's quite possible that someone else has already publicly shared this idea and/or given the same or similar measure of speed, but I'm posting about this since I independently thought of them.  
+A while ago, I had this idea for a measure of speed that was nonlinear (and non-exponential and non-logarithmic). The idea is that it would be more sensitive at both ends of the range of possible speeds (stationary and the speed of light in a vacuum, *c*). This way, it would be useful in situations where both extremely fast things and everyday-speed things are taken into account. It's quite possible that someone else has already publicly shared this idea and/or given the same or similar measure of speed, but I'm posting about this since I independently thought of them.  
   
 The equation is:  
 k = log~10~(*s*) - log~10~(1 - *s*)  
