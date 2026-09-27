@@ -3,6 +3,15 @@ locale = 'en-us'
 title = 'Tristan Bay Website'
 theme = 'tristanbay'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.extras]
+        [markup.goldmark.extensions.extras.subscript]
+          enable = true
+        [markup.goldmark.extensions.extras.superscript]
+          enable = true
+
 [params]
   name = 'Tristan Bay'
   email = 'tristanbaymusic@gmail.com'
